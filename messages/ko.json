@@ -1,0 +1,18 @@
+{
+  "BaseAppBar": {
+    "play_button": "지금 플레이",
+    "Navigation": {
+      "about_link": "에 대한",
+      "contact_us_link": "문의하기",
+      "faq_link": "자주하는 질문"
+    }
+  },
+  "LanguageSelectorButton": {
+    "selector": {
+      "en": "영어",
+      "id": "인도네시아 인",
+      "ko": "한국인",
+      "ja": "일본어"
+    }
+  }
+}

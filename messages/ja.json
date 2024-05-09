@@ -1,0 +1,18 @@
+{
+  "BaseAppBar": {
+    "play_button": "今すぐプレイ",
+    "Navigation": {
+      "about_link": "について",
+      "contact_us_link": "お問い合わせ",
+      "faq_link": "よくある質問"
+    }
+  },
+  "LanguageSelectorButton": {
+    "selector": {
+      "en": "英語",
+      "id": "インドネシア語",
+      "ko": "韓国語",
+      "ja": "日本語"
+    }
+  }
+}

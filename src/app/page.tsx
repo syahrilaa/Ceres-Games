@@ -1,9 +1,7 @@
-export const Home = () => {
-  return (
-    <div>
-      Anjai
-    </div>
-  )
+import { redirect } from "next/navigation"
+
+const RootPage = () => {
+  redirect('/en')
 }
 
-export default Home
+export default RootPage

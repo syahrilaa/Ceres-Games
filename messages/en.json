@@ -1,0 +1,18 @@
+{
+  "BaseAppBar": {
+    "play_button": "Play now",
+    "Navigation": {
+      "about_link": "About",
+      "contact_us_link": "Contact us",
+      "faq_link": "FAQ"
+    }
+  },
+  "LanguageSelectorButton": {
+    "selector": {
+      "en": "English",
+      "id": "Indonesian",
+      "ko": "Korean",
+      "ja": "Japanese"
+    }
+  }
+}

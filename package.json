@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "firebase": "^10.11.1",
+    "framer-motion": "^11.1.9",
     "next": "14.2.3",
+    "next-intl": "^3.12.2",
     "react": "^18",
     "react-dom": "^18"
   },

@@ -1,0 +1,18 @@
+{
+  "BaseAppBar": {
+    "play_button": "Bermain sekarang",
+    "Navigation": {
+      "about_link": "Tentang",
+      "contact_us_link": "Kontak kami",
+      "faq_link": "FAQ"
+    }
+  },
+  "LanguageSelectorButton": {
+    "selector": {
+      "en": "Inggris",
+      "id": "Indonesia",
+      "ko": "Korea",
+      "ja": "Jepang"
+    }
+  }
+}
