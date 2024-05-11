@@ -5,7 +5,7 @@ import { useMessages, NextIntlClientProvider } from 'next-intl'
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "UNO Game | Syahakato Projects - NextJS ",
+  title: "Ceres Games | All multiplayer games and play with friends",
   description: "This is Personal NextJS Projects from Syahakato",
 };
 

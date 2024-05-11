@@ -2,9 +2,9 @@
   "BaseAppBar": {
     "play_button": "今すぐプレイ",
     "Navigation": {
-      "about_link": "について",
-      "contact_us_link": "お問い合わせ",
-      "faq_link": "よくある質問"
+      "home_link": "家",
+      "games_link": "ゲーム",
+      "scoreboard_link": "スコアボード"
     }
   },
   "LanguageSelectorButton": {
@@ -14,5 +14,29 @@
       "ko": "韓国語",
       "ja": "日本語"
     }
+  },
+  "MainBanner": {
+    "banner_title": "<color>あらゆる好みに合わせたミニ ゲームをご用意しています!</color>、ここで興奮を感じてください!",
+    "banner_desc": "私たちのプラットフォームで、楽しくエキサイティングなさまざまなミニゲームを発見してください! 巧妙なパズルからスリル満点のアクション チャレンジまで、あなたの好みに合わせたゲーム体験を提供します。 いつでもどこでも、楽しくて興味深いゲームをプレイして自由時間を満喫してください。 今すぐ私たちと一緒にゲームの冒険を始めましょう!.",
+    "android_download_btn": "<bold>Play ストア</bold> でダウンロード",
+    "appstore_download_btn": "<bold>App Store</bold> でダウンロード",
+    "comming_soon": "近日公開"
+  },
+  "BaseGamesPage": {
+    "title": "すべてのマルチプレイヤー ゲーム"
+  },
+  "FormsComponentsPage": {
+    "email_input": "メール",
+    "password_input": "パスワード",
+    "confirmPassword_input": "パスワードを確認",
+    "remember_checkbox": "私を覚えてますか",
+    "forgotPassword_link": "パスワードをお忘れですか？",
+    "sign_provider_google": "Googleでサインイン",
+    "create_account_link": "アカウントをお持ちでないですか？ <link>アカウントを作成してください。</link>",
+    "signin_link": "登録済みのアカウントをお持ちですか？ <link>こちらでログインしてください。</link>",
+    "signin_button": "ログイン",
+    "signup_button": "サインアップ",
+    "signin_title": "アカウントにログイン",
+    "signup_title": "新しいアカウントを作成"
   }
 }

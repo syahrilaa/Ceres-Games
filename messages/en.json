@@ -2,9 +2,9 @@
   "BaseAppBar": {
     "play_button": "Play now",
     "Navigation": {
-      "about_link": "About",
-      "contact_us_link": "Contact us",
-      "faq_link": "FAQ"
+      "home_link": "Home",
+      "games_link": "Games",
+      "scoreboard_link": "Scoreboard"
     }
   },
   "LanguageSelectorButton": {
@@ -14,5 +14,29 @@
       "ko": "Korean",
       "ja": "Japanese"
     }
+  },
+  "MainBanner": {
+    "banner_title": "<color>Mini Games Available For All Tastes!</color>, Feel the Excitement Here!",
+    "banner_desc": "Discover a variety of entertaining and exciting mini games on our platform! From clever puzzles to thrilling action challenges, we provide a gaming experience to suit your taste. Enjoy your free time by playing fun and interesting games, wherever and whenever. Start your gaming adventure with us now!.",
+    "android_download_btn": "Download on <bold>Play Store</bold>",
+    "appstore_download_btn": "Download on <bold>App Store</bold>",
+    "comming_soon": "Comming soon"
+  },
+  "BaseGamesPage": {
+    "title": "All Multiplayer Game"
+  },
+  "FormsComponentsPage": {
+    "email_input": "Email",
+    "password_input": "Password",
+    "confirmPassword_input": "Confirm Password",
+    "remember_checkbox": "Remember me",
+    "forgotPassword_link": "Forgot password?",
+    "sign_provider_google": "Sign in with Google",
+    "create_account_link": "Don't have any account yet <link>Create account.</link>",
+    "signin_link": "Have an registered account <link>Login here.</link>",
+    "signin_button": "Login",
+    "signup_button": "Sign up",
+    "signin_title": "Login to Your Account",
+    "signup_title": "Create new Account"
   }
 }

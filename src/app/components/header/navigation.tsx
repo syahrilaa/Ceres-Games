@@ -3,19 +3,19 @@ import { useTranslations } from 'next-intl'
 
 const navLinkData = [
   {
-    name: 'about_link',
-    url: '/about',
-    title: 'About'
+    name: 'home_link',
+    url: '/',
+    title: 'Home'
   },
   {
-    name: 'contact_us_link',
-    url: '/contact',
-    title: 'Contact us'
+    name: 'games_link',
+    url: '/games',
+    title: 'Games'
   },
   {
-    name: 'faq_link',
-    url: '/faq',
-    title: 'FAQ'
+    name: 'scoreboard_link',
+    url: '/scoreboard',
+    title: 'Scoreboard'
   },
 ]
 

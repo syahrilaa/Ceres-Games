@@ -2,9 +2,9 @@
   "BaseAppBar": {
     "play_button": "Bermain sekarang",
     "Navigation": {
-      "about_link": "Tentang",
-      "contact_us_link": "Kontak kami",
-      "faq_link": "FAQ"
+      "home_link": "Beranda",
+      "games_link": "Permainan",
+      "scoreboard_link": "Papan peringkat"
     }
   },
   "LanguageSelectorButton": {
@@ -14,5 +14,29 @@
       "ko": "Korea",
       "ja": "Jepang"
     }
+  },
+  "MainBanner": {
+    "banner_title": "<color>Mini Games Tersedia Untuk Semua Selera!</color>, Rasakan Keseruannya Di Sini!",
+    "banner_desc": "Temukan berbagai mini game yang menghibur dan mengasyikkan di platform kami! Dari teka-teki cerdas hingga tantangan aksi yang mendebarkan, kami memberikan pengalaman bermain yang sesuai dengan selera Anda. Nikmati waktu luang Anda dengan memainkan permainan seru dan menarik, dimanapun dan kapanpun. Mulailah petualangan bermain game Anda bersama kami sekarang!.",
+    "android_download_btn": "Download di <bold>Play Store</bold>",
+    "appstore_download_btn": "Download di <bold>App Store</bold>",
+    "comming_soon": "Segera hadir"
+  },
+  "BaseGamesPage": {
+    "title": "Semua Game Multipemain"
+  },
+  "FormsComponentsPage": {
+    "email_input": "Email",
+    "password_input": "Kata Sandi",
+    "confirmPassword_input": "Konfirmasi Kata Sandi",
+    "remember_checkbox": "Ingat Saya",
+    "forgotPassword_link": "Lupa kata sandi?",
+    "sign_provider_google": "Masuk dengan Google",
+    "create_account_link": "Belum punya akun? <link>Buat akun.</link>",
+    "signin_link": "Sudah memiliki akun terdaftar? <link>Masuk di sini.</link>",
+    "signin_button": "Masuk",
+    "signup_button": "Daftar",
+    "signin_title": "Masuk ke Akun Anda",
+    "signup_title": "Buat Akun Baru"
   }
 }

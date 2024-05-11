@@ -2,9 +2,9 @@
   "BaseAppBar": {
     "play_button": "지금 플레이",
     "Navigation": {
-      "about_link": "에 대한",
-      "contact_us_link": "문의하기",
-      "faq_link": "자주하는 질문"
+      "home_link": "괭이",
+      "games_link": "계략",
+      "scoreboard_link": "점수판"
     }
   },
   "LanguageSelectorButton": {
@@ -14,5 +14,29 @@
       "ko": "한국인",
       "ja": "일본어"
     }
+  },
+  "MainBanner": {
+    "banner_title": "<color>모든 취향에 맞는 미니 게임!</color>, 여기서 짜릿함을 느껴보세요!",
+    "banner_desc": "우리 플랫폼에서 다양하고 재미있고 흥미로운 미니 게임을 발견해보세요! 기발한 퍼즐부터 스릴 넘치는 액션 챌린지까지, 여러분의 취향에 맞는 게임 경험을 제공합니다. 언제 어디서나 재미있고 흥미로운 게임을 즐기며 자유시간을 즐겨보세요. 지금 우리와 함께 게임 모험을 시작해보세요!.",
+    "android_download_btn": "<bold>Play 스토어</bold> 다운로드",
+    "appstore_download_btn": "<bold>App Store</bold> 다운로드",
+    "comming_soon": "곧 온다"
+  },
+  "BaseGamesPage": {
+    "title": "모든 멀티플레이어 게임"
+  },
+  "FormsComponentsPage": {
+    "email_input": "이메일",
+    "password_input": "비밀번호",
+    "confirmPassword_input": "비밀번호 확인",
+    "remember_checkbox": "나를 기억하기",
+    "forgotPassword_link": "비밀번호를 잊으셨나요?",
+    "sign_provider_google": "Google로 로그인",
+    "create_account_link": "아직 계정이 없으신가요? <link>계정 만들기.</link>",
+    "signin_link": "등록된 계정이 있으신가요? <link>여기에서 로그인하세요.</link>",
+    "signin_button": "로그인",
+    "signup_button": "가입",
+    "signin_title": "귀하의 계정으로 로그인",
+    "signup_title": "새 계정 만들기"
   }
 }
